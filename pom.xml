@@ -11,7 +11,7 @@
 	<groupId>za.co.trade</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend</name>
+	<name>user-management-service</name>
 	<description>BE microservice for user accounts</description>
 	<properties>
 		<java.version>17</java.version>

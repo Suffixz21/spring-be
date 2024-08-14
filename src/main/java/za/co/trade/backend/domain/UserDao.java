@@ -1,6 +1,7 @@
 package za.co.trade.backend.domain;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
 import java.time.LocalDate;
 
 @Entity

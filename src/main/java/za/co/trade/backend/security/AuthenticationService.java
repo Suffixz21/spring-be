@@ -21,5 +21,4 @@ public class AuthenticationService implements IAuthentication {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getUserFromToken'");
     }
-    
 }

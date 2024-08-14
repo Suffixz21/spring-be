@@ -1,4 +1,5 @@
 package za.co.trade.backend.security;
+
 import org.springframework.stereotype.Service;
 
 @Service
@@ -16,5 +17,3 @@ public class AuthorizationService implements IAuthorization {
         throw new UnsupportedOperationException("Unimplemented method 'hasPermission'");
     }
 }
-
-
