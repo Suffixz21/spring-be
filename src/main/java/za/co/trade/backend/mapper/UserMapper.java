@@ -1,3 +1,5 @@
+package za.co.trade.backend.mapper;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 @Entity
 @Table(name = "users")
-public class UserDao {
+public class User {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
